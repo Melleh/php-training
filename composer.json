@@ -1,0 +1,18 @@
+{
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "name": "melvin/php-training",
+    "description": "php code along toby",
+    "authors": [
+        {
+            "name": "melvin",
+            "email": "melvinboelens@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.2"
+    }
+}
